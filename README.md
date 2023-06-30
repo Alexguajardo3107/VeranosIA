@@ -1,0 +1,2 @@
+# VeranosIA
+Clase inteligencia artificial
